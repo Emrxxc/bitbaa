@@ -13,7 +13,10 @@ import FooterComponent from "../HomePage/FooterComponent";
 import DecentralizedPlatform from "../HomePage/DecentralizedPlatform";
 import TestimonialsSlider from "../HomePage/TestimonialsSlider";
 import ReferralPopup from "../HomePage/ReferralPopup";
-import { createUtils } from '@vanilla-extract/sprinkles/createUtils';
+import { createUtils } from '@vanilla-extract/sprinkles/createUtils';  // Adlandırılmış export
+
+
+
 
 export {
   Header,
