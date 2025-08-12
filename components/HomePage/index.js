@@ -14,10 +14,6 @@ import DecentralizedPlatform from "../HomePage/DecentralizedPlatform";
 import TestimonialsSlider from "../HomePage/TestimonialsSlider";
 import ReferralPopup from "../HomePage/ReferralPopup";
 import { createUtils } from '@vanilla-extract/sprinkles/createUtils';
-import { createUtils } from '@vanilla-extract/sprinkles/createUtils'; // Adlandırılmış export
-module.exports = {
-  output: 'export', // Statik dışa aktarma yapılandırması
-};
 
 export {
   Header,
